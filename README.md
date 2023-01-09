@@ -1,4 +1,3 @@
-### Hi there 👋
 # 💫 About Me:
 🌱 I’m currently studying biomedical engineering<br>at the Faculty of Electronics and Information Technology<br>at the Warsaw University of Technology<br>👯 Willing to work in a group on larger projects and learn new skills<br>🤝 I'm looking for my first internship/job
 
