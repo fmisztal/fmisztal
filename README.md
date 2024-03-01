@@ -1,7 +1,7 @@
 # 💫 About Me:
-🌱 Currently pursuing studies in biomedical informatics at the Faculty of Electronics and Information Technology, Warsaw University of Technology. <br>
-👯 Enthusiastic about collaborating within a team environment on challenging projects while continuously expanding skill sets. <br>
-🤝 Actively seeking opportunities for an internship in Machine Learning or a junior Java developer position to apply knowledge and passion for technology in real-world scenarios.
+🌱 Currently pursuing studies in biomedical informatics at the Faculty of Electronics and Information Technology, <br> Warsaw University of Technology <br>
+👯 Enthusiastic about collaborating within a team environment on challenging projects while continuously expanding skill sets <br>
+🤝 Actively seeking opportunities for an internship in Machine Learning or a junior Java developer position to apply knowledge and passion for technology in real-world scenarios
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/filip-misztal-9b9370239) 
